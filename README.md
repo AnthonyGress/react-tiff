@@ -2,6 +2,8 @@
 
 A React component for viewing TIFF images.
 
+Forked to support React > 16 without force installing.
+
 ## Features
 
 - Supports multi-page TIFF images
